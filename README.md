@@ -18,9 +18,9 @@
 
 ## 🛠️ Methodlogy 
 
--'Lexicon-Based Approaches'
--'Machine Learning Methods'
--'Emotionb Analysis'
+- 'Lexicon-Based Approaches'
+- 'Machine Learning Methods'
+- 'Emotionb Analysis'
 
 ## 🚦 Sentiments Detected 
 1. Positive Sentiments
