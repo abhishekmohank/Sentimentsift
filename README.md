@@ -14,13 +14,13 @@
 
  - Research by Liu (2012) provided a comprehensive overview of sentiment analysis techniques, including lexicon-based approaches, machine learning methods, and hybrid models, emphasizing their effectiveness in extracting sentiment from textual data. 
 
- - Pang and Lee (2008) investigated the use of sentiment analysis in product reviews, demonstrating its utility in identifying positive and negative opinions to inform product development and marketing strategies.
+ - Pang and Lee (2008) investigated sentiment analysis in product reviews, demonstrating its utility in identifying positive and negative opinions to inform product development and marketing strategies.
 
 ## 🛠️ Methodlogy 
 
 - 'Lexicon-Based Approaches'
 - 'Machine Learning Methods'
-- 'Emotionb Analysis'
+- 'Emotions Analysis'
 
 ## 🚦 Sentiments Detected 
 1. Positive Sentiments
