@@ -1,10 +1,10 @@
 # SentimentSift:  " Unveiling Emotional Insights "
 
 ## 📍 The Project All About 
-- I am introducing  my sentiment analysis project! In today's digital age, understanding how people feel about your brand, product, or service is vital for success. 
-- **My project focuses on automating the analysis of text data from various sources such as social media, customer reviews, and support tickets.
--**Leveraging sentiment analysis techniques aims to provide businesses with valuable insights into public opinion, customer satisfaction, and brand perception.
- - **From monitoring brand mentions to analyzing customer feedback in real-time, the project offers a scalable and efficient solution for extracting actionable insights and driving data-driven decisions.
+- The sentiment analysis project! In today's digital age, understanding how people feel about your brand, product, or service is vital for success. 
+- My project focuses on automating the analysis of text data from various sources such as social media, customer reviews, and support tickets.
+- Leveraging sentiment analysis techniques aims to provide businesses with valuable insights into public opinion, customer satisfaction, and brand perception.
+- From monitoring brand mentions to analyzing customer feedback in real-time, the project offers a scalable and efficient solution for extracting actionable insights and driving data-driven decisions.
 
 ## Problem statement 📝
  automated sentiment analysis solutions capable of efficiently processing large volumes of text data to provide timely and accurate insights for informed decision-making and strategic action.
@@ -12,9 +12,9 @@
 ## 💡 Literature review   
 
 
- - **Research by Liu (2012) provided a comprehensive overview of sentiment analysis techniques, including lexicon-based approaches, machine learning methods, and hybrid models, emphasizing their effectiveness in extracting sentiment from textual data. 
+ - Research by Liu (2012) provided a comprehensive overview of sentiment analysis techniques, including lexicon-based approaches, machine learning methods, and hybrid models, emphasizing their effectiveness in extracting sentiment from textual data. 
 
- - **Pang and Lee (2008) investigated the use of sentiment analysis in product reviews, demonstrating its utility in identifying positive and negative opinions to inform product development and marketing strategies.
+ - Pang and Lee (2008) investigated the use of sentiment analysis in product reviews, demonstrating its utility in identifying positive and negative opinions to inform product development and marketing strategies.
 
 ## 🛠️ Methodlogy 
 
