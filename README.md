@@ -16,7 +16,7 @@
 
  - Pang and Lee (2008) investigated sentiment analysis in product reviews, demonstrating its utility in identifying positive and negative opinions to inform product development and marketing strategies.
 
-## 🛠️ Methodlogy 
+## 🛠️ Methodology 
 
 - 'Lexicon-Based Approaches'
 - 'Machine Learning Methods'
