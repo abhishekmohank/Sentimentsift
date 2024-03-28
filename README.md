@@ -34,5 +34,5 @@
 
 
 ## 🤗 Hugging Face 
-- ** https://huggingface.co/bhadresh-savani/distilbert-base-uncased-emotion?text=i+love+you
-- ** https://huggingface.co/blog/sentiment-analysis-python
+-  https://huggingface.co/bhadresh-savani/distilbert-base-uncased-emotion?text=i+love+you
+-  https://huggingface.co/blog/sentiment-analysis-python
